@@ -14,6 +14,17 @@ aside{
   padding: 0px 20px 20px 40px;
 
 }
+#Top {
+  color: red;
+  font-Size: 50px;
+.better {
+  color: #999999;
+}
+}
+nav {
+  display:flex;
+
+}
 .tbox {
   color: white;
   font-size: 30px;
@@ -22,6 +33,15 @@ aside{
   padding: 15px;
   text-shadow: 2px 2px #3d0099;
   background: #080808;
+  margin: 1px;
+
+
+}
+.content {
+  color: #737373;
+}
+.title {
+   color: #4c4c4c;
 }
 .box {
   color: red;
@@ -35,8 +55,12 @@ a {
   text-decoration: none;
 
 }
+li {
+  color: #ff3232;
 
 }
+
+
 .container {
   display: flex:
 
