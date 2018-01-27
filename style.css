@@ -1,0 +1,47 @@
+.blogContent {
+  float: left;
+  width: 60%;
+  display: inline-block;
+}
+.rightMargin {
+display:inline-block;
+width:300px;
+}
+
+aside{
+  display: block;
+  margin: 50px 20px 70px 20px;
+  padding: 0px 20px 20px 40px;
+
+}
+.tbox {
+  color: white;
+  font-size: 30px;
+  text-align: left;
+  font-family:  "serif";
+  padding: 15px;
+  text-shadow: 2px 2px #3d0099;
+  background: #080808;
+}
+.box {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 1px 0 #bbbbbb;
+  padding: 10px;
+
+}
+a {
+  text-decoration: none;
+
+}
+
+}
+.container {
+  display: flex:
+
+
+}
+footer{
+  clear: both;
+}
