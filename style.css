@@ -51,14 +51,20 @@ nav {
   padding: 10px;
 
 }
+ul li {
+  color: #929292;
+color: ;
+list-style-type: disc;
+}
+ul li span{
+  color: #ff3232;
+
+}
 a {
   text-decoration: none;
 
 }
-li {
-  color: #ff3232;
 
-}
 
 
 .container {
